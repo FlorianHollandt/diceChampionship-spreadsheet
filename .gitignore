@@ -1,0 +1,9 @@
+node_modules/
+db/
+bundle/
+bundle.zip
+platforms/
+test/
+.env
+.eslintrc.js
+src/spreadsheet/credentials.json
